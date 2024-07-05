@@ -1,1 +1,1 @@
-always_learning
+is_always_learning = True
